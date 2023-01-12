@@ -1,6 +1,11 @@
 # mycard_treiner
 
-A new Flutter project.
+Este é um Card para treiner onde contém imagem para avatar,fontes, telefone e email.
+
+
+![Imagem de exemplo](https://user-images.githubusercontent.com/118078677/212049820-4da1de92-c2c7-4004-bcf5-15a6cf1ab3aa.png)
+
+
 
 ## Getting Started
 
